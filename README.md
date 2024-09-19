@@ -5,7 +5,7 @@
 📞 **Contact**: 6307252761  
 ✉️ **Email**: sandhya756507@gmail.com  
 🌐 **LinkedIn**: [krishna-chauhan9838](https://linkedin.com/in/krishna-chauhan9838)  
-💼 **Portfolio**: [My Portfolio](https://yourportfolio.com)  
+💼 **Portfolio**: [My Portfolio](https://krishnaportfolio-zeta.vercel.app/)  
 🏆 **LeetCode**: [LeetCode Profile](https://leetcode.com/godzkrishu)
 
 ## **🎓 Education**
