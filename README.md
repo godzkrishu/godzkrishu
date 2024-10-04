@@ -11,10 +11,6 @@
 ## **🎓 Education**
 - **Bachelor of Technology** in **Computer Science and Engineering**  
   **CGPA**: 8.73 — Year: 2021-2025 — **Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow**
-- **Class 12**  
-  **Percentage**: 68.5% — Year: 2021 — **Mahatma Gandhi Inter College, Gorakhpur**
-- **Class 10**  
-  **Percentage**: 85.2% — Year: 2019 — **Central Public Academy, Chauri Chaura, Gorakhpur**
 
 ## **💻 Skills**
 - **Programming Languages**: C, C++, Swift, Dart, JavaScript, SQL
